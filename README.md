@@ -30,3 +30,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 3. Then run `npm run dev` or `bun dev`
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 5. Source codes are located in `components` folder.
+
+## How To Contribute
+
+1. Fork this repository.
+2. Do your contributions.
+3. Then open a pull request.
+
+## Also Don't Forget to Look at Contributors
+
+1. [Ajmal Shahabudeen](https://ajmalshahabudeen.vercel.app)
