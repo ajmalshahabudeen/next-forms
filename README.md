@@ -14,6 +14,8 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+Live Demo: [https://next-formz.vercel.app/](https://next-formz.vercel.app/)
+
 ## Packages Used here
 
 1. [Zod](https://zod.dev/)
